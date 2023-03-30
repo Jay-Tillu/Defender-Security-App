@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/logo.png?raw=true" alt="Defender App Logo" width="120" height="120">
+    <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/main/assets/images/logo.png?raw=true" alt="Defender App Logo" width="120" height="120">
   </a>
 </p>
 
@@ -18,21 +18,23 @@ Privacy and Simplicity focused Security App.
 ## Screenshots
 
 <p float="middle">
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/imageleft.jpg?raw=true" width="200" />
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/imageright.jpg?raw=true" width="200" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image2.jpg?raw=true" width="200" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image3.jpg?raw=true" width="200" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image4.jpg?raw=true" width="200" /> 
-  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/image5.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/main/assets/images/imageleft.jpg?raw=true" width="200" />
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/main/assets/images/imageright.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/main/assets/images/image2.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/main/assets/images/image3.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/main/assets/images/image4.jpg?raw=true" width="200" /> 
+  <img src="https://github.com/Jay-Tillu/Defender-Security-App/blob/main/assets/images/image5.jpg?raw=true" width="200" /> 
  
 </p>
 
 
+<p float="left">
+  <a href="https://play.google.com/store/apps/details?id=com.immolationinc.defender"> <img src="https://github.com/Jay-Tillu/Defender-Admin-App/blob/main/assets/images/getit.png?raw=true" width="200" /></a>
+</p>
 
+<!-- 
 [![alt text](https://github.com/Jay-Tillu/Defender-Security-App/blob/master/assets/images/getitimage.png?raw=true "Check it on Google Play")
-](https://play.google.com/store/apps/details?id=com.immolationinc.defender)
-
-
+](https://play.google.com/store/apps/details?id=com.immolationinc.defender) -->
 
 
 ## Plugins
